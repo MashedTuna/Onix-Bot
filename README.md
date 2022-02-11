@@ -17,9 +17,9 @@ Go to [this link](https://discord.com/oauth2/authorize/?permissions=4294967287&s
 #### `.env` config table
 | `.env` varriable | Description | Type |
 |---|---|:---:|:---:|:---:|:---:|
-| `TOKEN` | Discord bot token | String | ✅ | ✅ | ✅ |
-| `MONGO` | MongoDB | Url | ✅ | ✅ | ✅ |
-| `SECRET` | Discord bot secret | String | ✅ | ✅ | ✅ |
+| `TOKEN` | Discord bot token | String |
+| `MONGO` | MongoDB | Url |
+| `SECRET` | Discord bot secret | String |
 
 
 ## 📝 Contributors
